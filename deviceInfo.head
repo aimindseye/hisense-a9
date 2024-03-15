@@ -1,7 +1,0 @@
- <li><a href='#devinfo'>DeviceInfo</a><ul>
-  <li><a href='#devprops'>Properties</a></li>
-  <li><a href='#devfeat'>Features</a></li>
-  <li><a href='#devstatus'>Status</a></li>
-  <li><a href='#devaccounts'>Users &amp; Accounts</a></li>
-  <li><a href='#androidbackup'>Backup Manager</a></li>
- </ul></li>
