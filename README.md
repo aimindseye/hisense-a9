@@ -6,5 +6,4 @@ repository for hisense-a9 system information and tips
 - to root
 - update to android gsi
 - update to lineage gsi
-- 
 
