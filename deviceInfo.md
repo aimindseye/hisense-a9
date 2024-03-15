@@ -469,7 +469,7 @@
  <tr><th>Backup destinations:</th><td><table class='inner'>
    <tr><th>com.android.localtransport/.LocalTransport:</th><td>Backing up to debug-only private cache</td></tr>
    <tr><th>com.google.android.gms/.backup.migrate.service.D2dTransport:</th><td>Moving data to new device</td></tr>
-   <tr><th><i>com.google.android.gms/.backup.BackupTransportService</i>:</th><td>pdaiya@gmail.com</td></tr>
+   <tr><th><i>com.google.android.gms/.backup.BackupTransportService</i>:</th><td></td></tr>
  </table>
  <tr><th>Last backup pass started:</th><td>1710513953158 (now = 1710528834015)</td></tr>
  <tr><th>Ever backed up:</th><td>5</td></tr>
