@@ -30,7 +30,7 @@ A9 Resources:
 
 Android Platform Tools/Apps, Drivers and Other Utilities:
 
-- [ADB:](https://developer.android.com/tools/releases/platform-tools) Download ADB from Android Platform tools for your operating system. **Add directory where ADB installed to path of your operating system.** Fastboot will not work for unlocking bootloader from Android Platform tools. Need to use custom fastboot.
+- [ADB:](https://developer.android.com/tools/releases/platform-tools) Download ADB from Android Platform tools for your operating system. **Add directory where ADB installed to path of your operating system.** Fastboot from Android Platform tools will not work for unlocking bootloader. Need to use custom fastboot created by Denzil Ferreira.
 - [EDL:](https://wiki.bananahackers.net/en/guides/edl) Qualcomm Emergency Download mode, commonly known as EDL mode, is a special engineering interface implemented on devices with Qualcomm chipsets. Its purpose is to perform special operations on the phone that are intended for device manufacturer only, such as unlocking the bootloader, read and flash firmwares on the phone's filesystem or recover it from being a dead paperweight. Unlike bootloader or Fastboot mode, system files needed by the EDL mode resides on a separate 'primary bootloader' that cannot be affected by software modifications. Below some of EDL utilities:
   - [Renate EDL Utility](http://www.temblast.com/edl.htm) Windows Only
   - [BKerler EDL tool](https://github.com/bkerler/edl) Linux/Windows both
