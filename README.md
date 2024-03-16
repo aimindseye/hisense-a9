@@ -16,7 +16,7 @@ and tips
 - update to android gsi
 - update to lineage gsi
 
-The aim of this repository is to be wiki for someone who want to modify/change their hisense a9.
+The aim of this repository is to be wiki for someone who wants to modify/change their hisense a9.
 The information is collected from various reddit posts and xdaforums posts.
 
 Reference:
