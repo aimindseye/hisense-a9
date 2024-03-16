@@ -19,6 +19,7 @@ and tips
 - to root
 - update to android gsi
 - update to lineage gsi
+- flash to stock rom
 
 
 A9 Resources:
