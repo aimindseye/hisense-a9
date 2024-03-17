@@ -17,7 +17,7 @@ and tips
 - [to setup developer mode and usb debugging](https://github.com/aimindseye/hisense-a9/blob/main/devmodeusbdebug.md)
 - to debloat and block apps
 - [to unlock bootloader](https://github.com/aimindseye/hisense-a9/blob/main/unlockbootloader.md)
-- to root
+- [to root](https://github.com/aimindseye/hisense-a9/blob/main/rootphone.md)
 - update to android gsi
 - update to lineage gsi
 - [flash to stock rom](https://github.com/aimindseye/hisense-a9/blob/main/flashstockrom.md)
