@@ -22,7 +22,9 @@
 - Select "Select and Patch a File"
 - Pick the  copied "boot.img" from the file manager
 - Select "Let's Go"
-- Move the magisk_patched image file(it will be created in same folder where boot.img was copied to, on your phone)to your computer(in same folder where vbmeta.img is downloaded)
+- Move the newly created magisk_patched image file to your computer(in same folder where vbmeta.img is downloaded)
+>[!NOTE]
+>(it will be created in same folder where boot.img was copied to, on your phone)
 - Rename to magisk_patched_boot.img
 - Open Command prompt window in directory where vbmeta.img and magisk_patched_boot.img are located(if using Linux, then terminal window)
 - Enter following commands
