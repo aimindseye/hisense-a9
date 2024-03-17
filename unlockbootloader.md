@@ -13,11 +13,11 @@
 - In first window, goto directory where adb is installed if adb is not in system path
 - In second window, goto directory where custom fastboot is downloaded
 - In first window, enter following command
-  - adb reboot bootloader (if using Linux, use ./adb)
+  - <code>adb reboot bootloader</code> (if using Linux, use ./adb)
 - In second window, enter following commands
-    - fastboot Hisense unlock (if using Linux, use ./fastboot)
-    - fastboot erase avb_custom_key (if using Linux, use ./fastboot)
-    - fastboot continue (if using Linux, use ./fastboot)
+    - <code>fastboot Hisense unlock</code> (if using Linux, use ./fastboot)
+    - <code>fastboot erase avb_custom_key</code> (if using Linux, use ./fastboot)
+    - <code>fastboot continue</code> (if using Linux, use ./fastboot)
  - Phone will reboot and display a message in Chinese to confirm a complete data wipe.Press Volume Up and wait.
  - Once phone restarts, you will need to setup phone again.
  - To confirm if bootloader is unlocked, goto Settings> System & Updates > Developer Options. Under OEM unlocking, there will be "Bootloader is already unlocked"
