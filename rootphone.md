@@ -26,7 +26,8 @@
 - Enter following commands
   - adb reboot bootloader(if using Linux, use ./adb)
   - fastboot flash --disable-verity --disable-verification vbmeta vbmeta.img(if using Linux, use ./fastboot)
-  - fastboot flash boot magisk_patched_boot.img(if using Linux, use ./fastboot)
+  - fastboot flash boot_a magisk_patched_boot.img(if using Linux, use ./fastboot)
+  - fastboot flash boot_b magisk_patched_boot.img(if using Linux, use ./fastboot)
   - fastboot reboot(if using Linux, use ./fastboot)
  - If everything above is successful, then phone will reboot and it should be rooted.
  - To confirm, Open Magisk app on your phone. It should prompt you to reboot. On reboot, check that Superuser tab is enabled
