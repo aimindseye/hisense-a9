@@ -3,7 +3,8 @@
 ## Pre-requisites
 - ADB Downloaded and in System Path
 - Developer Options and USB Debugging Enabled
-- Custom Fastboot downloaded
+> [!IMPORTANT]
+> **Custom Fastboot downloaded**
 - Phone connected via USB ;)
 
 
