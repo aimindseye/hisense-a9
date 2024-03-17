@@ -11,7 +11,7 @@
 
 ## Flashing Stock ROM on Windows
 
-- Download and install
+- Download and install, if not already installed
   - [QFIL 2.0.3.5](https://qfiltool.com/qfil-tool-v2-0-3-5)
   - [Qualcomm HS-USB QDLoader 9008 Driver](https://gsmusbdrivers.com/download/qualcomm-hs-usb-qdloader-9008-driver-64-bit-windows/)
 - Reboot you computer
