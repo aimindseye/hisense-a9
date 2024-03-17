@@ -14,6 +14,7 @@ The information is collected from various reddit posts and xdaforums posts.
 and tips 
 - **recommended buy**- EDL cable- cable used on all Qualcomm phones to put phone into DEEP FLASH MODE, also known as Qualcomm 9008 Mode / Emergency Download Mode. 
 - [non root modifications](https://github.com/aimindseye/hisense-a9/blob/main/non-root-mods.md) (for someone who just wants basic changes like access to keyboard, eink brower. eink reader, other apps without Google Playstore install)
+- to setup developer mode and usb debugging
 - to debloat and block apps
 - to unlock bootloader
 - to root
