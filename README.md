@@ -18,8 +18,7 @@ and tips
 - to debloat and block apps
 - [to unlock bootloader](https://github.com/aimindseye/hisense-a9/blob/main/unlockbootloader.md)
 - [to root](https://github.com/aimindseye/hisense-a9/blob/main/rootphone.md)
-- update to android gsi
-- update to lineage gsi
+- [update to android/lineage gsi](https://github.com/aimindseye/hisense-a9/blob/main/updateandroidgsi.md)
 - [flash to stock rom](https://github.com/aimindseye/hisense-a9/blob/main/flashstockrom.md)
 - [backup & restore phone](https://github.com/aimindseye/hisense-a9/blob/main/backuprestore.md)
 
