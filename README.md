@@ -20,7 +20,8 @@ and tips
 - to root
 - update to android gsi
 - update to lineage gsi
-- flash to stock rom
+- [flash to stock rom](https://github.com/aimindseye/hisense-a9/blob/main/flashstockrom.md)
+- [backup & restore phone](https://github.com/aimindseye/hisense-a9/blob/main/backuprestore.md)
 
 
 ### A9 Resources:
@@ -42,6 +43,7 @@ and tips
 - [Magisk HidePropsConf:](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases) Used to change ur device's fingerprint, to pass SafetyBet's CTS profile check. With device certification, apps that require device certifications will work.ex. bank apps, streaming apps etc.
 - [Linaro's QDL:](https://git.codelinaro.org/linaro/qcomlt/qdl) This Linux tool communicates with USB devices of id 05c6:9008 to upload a flash loader and use this to flash images.
 - [Qualcomm Flash Image Loader(QFIL):](https://qfiltool.com/qfil-tool-v2-0-3-5) Qualcomm Flash Image Loader (QFIL) is a small Windows application that allows you to flash or install Stock Firmware on devices powered by Qualcomm Chipset.
+- [Qualcomm HS-USB QDLoader 9008 Driver- Windows](https://gsmusbdrivers.com/download/qualcomm-hs-usb-qdloader-9008-driver-64-bit-windows/)
 - Screen Sharing: These screen sharing utilities are helpful while setting up android gsi and lineage gsi as gsi are not yet optimized for eink devices.
   - [scrcpy:](https://github.com/Genymobile/scrcpy/tree/master) Linux/Windows both
   - [Vysor:](https://www.vysor.io/) Linux/Windows both. Free version works well.
