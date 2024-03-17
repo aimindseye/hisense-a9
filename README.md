@@ -5,6 +5,11 @@
 The aim of this repository is to be wiki for someone who wants to modify/change their hisense a9.
 The information is collected from various reddit posts and xdaforums posts.
 
+> [!WARNING]
+> Please proceed at your own risk. There are chances that performing any instructions from this repository could lead to unrecoverable phone.The author is not responsible for any damage caused to the phone with any information or instructions from this repository 
+
+## Pre-requisites
+
 
 - [device info](https://github.com/aimindseye/hisense-a9/blob/main/deviceInfo.md)
 - [default apps](https://github.com/aimindseye/hisense-a9/blob/main/defaultApps.md)
@@ -12,10 +17,13 @@ The information is collected from various reddit posts and xdaforums posts.
 
 
 and tips 
-- **recommended buy**- EDL cable- cable used on all Qualcomm phones to put phone into DEEP FLASH MODE, also known as Qualcomm 9008 Mode / Emergency Download Mode. 
+
+> [!IMPORTANT]
+> **recommended buy**- EDL cable- cable used on all Qualcomm phones to put phone into DEEP FLASH MODE, also known as Qualcomm 9008 Mode / Emergency Download Mode.
+
+
 - [non root modifications](https://github.com/aimindseye/hisense-a9/blob/main/non-root-mods.md) (for someone who just wants basic changes like access to keyboard, eink brower. eink reader, other apps without Google Playstore install)
 - [to setup developer mode and usb debugging](https://github.com/aimindseye/hisense-a9/blob/main/devmodeusbdebug.md)
-- to debloat and block apps
 - [to unlock bootloader](https://github.com/aimindseye/hisense-a9/blob/main/unlockbootloader.md)
 - [to root](https://github.com/aimindseye/hisense-a9/blob/main/rootphone.md)
 - [update to android/lineage gsi](https://github.com/aimindseye/hisense-a9/blob/main/updateandroidgsi.md)
