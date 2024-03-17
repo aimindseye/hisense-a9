@@ -1,3 +1,4 @@
+
 # Flashing Stock ROM
 
 ## Pre-requisites
@@ -33,7 +34,7 @@
 - Add QDL to system path if not already done
 - Open terminal window in directory where stock rom is downloaded
 - Run below command in terminal window
-- qdl --debug --storage ufs --finalize-provisioning --include . prog_firehose_ddr_001360E1.elf rawprogram0_001360E1.xml rawprogram1_001360E1.xml rawprogram2_001360E1.xml rawprogram3_001360E1.xml rawprogram4_001360E1.xml rawprogram5_001360E1.xml patch0.xml patch1.xml patch2.xml patch3.xml patch4.xml patch5.xml
+- <code>qdl --debug --storage ufs --finalize-provisioning --include . prog_firehose_ddr_001360E1.elf rawprogram0_001360E1.xml rawprogram1_001360E1.xml rawprogram2_001360E1.xml rawprogram3_001360E1.xml rawprogram4_001360E1.xml rawprogram5_001360E1.xml patch0.xml patch1.xml patch2.xml patch3.xml patch4.xml patch5.xml</code>
 - Put your phone into EDL mode. This is achieved by having it reboot with the EDL cable unplugged. Then plug in your cable, and hold the power button, volume up, volume down, and the button on your EDL cable. Wait until the backlight turns off, then count down from ten. If your screen freezes with the backlight off, congratulations, you are now in EDL mode.
 - You can also put your phone into EDL mode by opening another terminal window and typing command - ./adb reboot edl
 - If the download is successful then turn your phone back on by holding the power button. You should now be directed to the setup screen.
