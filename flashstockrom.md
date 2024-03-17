@@ -5,7 +5,8 @@
 - ADB Downloaded and in System Path
 - Developer Options and USB Debugging Enabled
 - Hisense A9 Stock Rom downloaded
-- **EDL Cable** (without EDL Cable - stock rom cannot be flashed)
+>[!IMPORTANT]
+>**EDL Cable** (without EDL Cable - stock rom cannot be flashed)
 - Phone connected via USB ;)
 
 
