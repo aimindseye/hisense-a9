@@ -14,22 +14,22 @@ The information is collected from various reddit posts and xdaforums posts.
 and tips 
 - **recommended buy**- EDL cable- cable used on all Qualcomm phones to put phone into DEEP FLASH MODE, also known as Qualcomm 9008 Mode / Emergency Download Mode. 
 - [non root modifications](https://github.com/aimindseye/hisense-a9/blob/main/non-root-mods.md) (for someone who just wants basic changes like access to keyboard, eink brower. eink reader, other apps without Google Playstore install)
-- to setup developer mode and usb debugging
+- [to setup developer mode and usb debugging](https://github.com/aimindseye/hisense-a9/blob/main/devmodeusbdebug.md)
 - to debloat and block apps
-- to unlock bootloader
+- [to unlock bootloader](https://github.com/aimindseye/hisense-a9/blob/main/unlockbootloader.md)
 - to root
 - update to android gsi
 - update to lineage gsi
 - flash to stock rom
 
 
-A9 Resources:
+### A9 Resources:
 - [Elf file]( https://drive.google.com/file/d/16tMxSO-fa9BHyBZqoZD7rywGcmyZC_aW/view?usp=drive_link) FireHose Elf file for A9 (needed for restoring to stock rom)
 - [Stock rom](https://drive.google.com/drive/folders/1_5PvcvgA9TltEU_XwmiL-t2Eh0VM6C40?usp=drive_link) Hisense A9 stock rom which will have version L2037.6.04.06.00 . You should be able to update to L2037.6.08.01.00(this is last update provided by Hisense) using system update under settings
 - [Boot Image & vbmeta](https://drive.google.com/drive/folders/1lSOJqfIWaUJ9EnchshKYnNoZNrFZNY9g?usp=drive_link) These will be used during rooting process.
 - [Custom Fastboot](https://drive.google.com/drive/folders/1TB3I6_ejs7Y8GyEumty0aDFiJvycEgWH?usp=drive_link) Created by Denzil Ferreira for unlocking bootloader. Windows and Linux versions are available.
 
-Android Platform Tools/Apps, Drivers and Other Utilities:
+### Android Platform Tools/Apps, Drivers and Other Utilities:
 
 - [ADB:](https://developer.android.com/tools/releases/platform-tools) Download ADB from Android Platform tools for your operating system. **Add directory where ADB installed to path of your operating system.** Fastboot from Android Platform tools will not work for unlocking bootloader. Need to use custom fastboot created by Denzil Ferreira.
 - [EDL:](https://wiki.bananahackers.net/en/guides/edl) Qualcomm Emergency Download mode, commonly known as EDL mode, is a special engineering interface implemented on devices with Qualcomm chipsets. Its purpose is to perform special operations on the phone that are intended for device manufacturer only, such as unlocking the bootloader, read and flash firmwares on the phone's filesystem or recover it from being a dead paperweight. Unlike bootloader or Fastboot mode, system files needed by the EDL mode resides on a separate 'primary bootloader' that cannot be affected by software modifications. Below some of EDL utilities:
@@ -48,6 +48,6 @@ Android Platform Tools/Apps, Drivers and Other Utilities:
 
 - [Universal SafetyNetFix:](https://github.com/kdrag0n/safetynet-fix/releases) Magisk module to work around Google's SafetyNet and Play Integrity attestation.
 
-Reference:
+## Reference:
 - xdaforums - [Hisense a9 root - Reward Offered](https://xdaforums.com/t/hisense-a9-root-reward-offered-snapdragon-662.4495809/)
 - reddit - [How to root the Hisense A9](https://www.reddit.com/r/eink/comments/16tpr96/guide_how_to_root_the_hisense_a9/)
