@@ -1,0 +1,7 @@
+adb reboot bootloader
+fastboot Hisense unlock
+fastboot erase avb_custom_key
+fastboot flash --disable-verity --disable-verification vbmeta vbmeta.img
+fastboot flash boot_a boot.img
+fastboot flash boot_b boot.img
+fastboot reboot

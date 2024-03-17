@@ -1,0 +1,6 @@
+adb shell
+pm grant com.google.android.syncadapters.contacts android.permission.GET_ACCOUNTS
+pm grant com.google.android.syncadapters.contacts android.permission.READ_CONTACTS
+pm grant com.google.android.syncadapters.contacts android.permission.WRITE_CONTACTS
+
+pm grant com.google.android.gms android.permission.WRITE_CONTACTS

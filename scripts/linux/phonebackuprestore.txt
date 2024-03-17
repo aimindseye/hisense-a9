@@ -1,0 +1,4 @@
+#backup
+edl rl dumps --memory=ufs --loader=prog_firehose_ddr_001360E1.elf --skip=userdata --genxml 
+#restore
+edl wl dumps --memory=ufs --loader=prog_firehose_ddr_001360E1.elf 

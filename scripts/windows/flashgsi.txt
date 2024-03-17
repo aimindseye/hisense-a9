@@ -1,0 +1,5 @@
+adb reboot bootloader
+fastboot reboot fastboot
+fastboot flash system <name_of_image>.img
+fastboot -w
+fastboot reboot
