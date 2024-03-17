@@ -5,9 +5,11 @@
 
 - ADB Downloaded and in System Path
 - Developer Options and USB Debugging Enabled
-- Custom Fastboot downloaded
-- Bootloader Unlocked
-- Boot Images and vbmeta file downloaded. Depending on your firmware version, use appropriate boot.img
+> [!IMPORTANT]
+> Custom Fastboot downloaded | Bootloader Unlocked | Boot Images and vbmeta downloaded.
+
+> [!NOTE]
+> Depending on your firmware version, use appropriate boot.img
 - Magisk installed on phone
 - Phone connected via USB ;)
 
