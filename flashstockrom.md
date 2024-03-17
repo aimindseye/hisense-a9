@@ -1,6 +1,12 @@
 
 # Flashing Stock ROM
 
+> [!WARNING]
+> Please proceed at your own risk. There are chances that performing below instructions could lead to unrecoverable phone.
+The author is not responsible for any damage caused to the phone with below instructions. 
+
+
+
 ## Pre-requisites
 - ADB Downloaded and in System Path
 - Developer Options and USB Debugging Enabled
