@@ -30,6 +30,7 @@ and tips
 - [update to android/lineage gsi](https://github.com/aimindseye/hisense-a9/blob/main/updateandroidgsi.md)
 - [flash to stock rom](https://github.com/aimindseye/hisense-a9/blob/main/flashstockrom.md)
 - [backup & restore phone](https://github.com/aimindseye/hisense-a9/blob/main/backuprestore.md)
+- [extract/backup boot image](https://github.com/aimindseye/hisense-a9/blob/main/backupbootimg.md)
 
 
 ### A9 Resources:
