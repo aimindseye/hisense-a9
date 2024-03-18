@@ -8,12 +8,13 @@ The information is collected from various reddit posts and xdaforums posts.
 > [!WARNING]
 > Please proceed at your own risk. There are chances that performing any instructions from this repository could lead to unrecoverable phone.The author is not responsible for any damage caused to the phone with any information or instructions from this repository 
 
-## Pre-requisites
-
 
 - [device info](https://github.com/aimindseye/hisense-a9/blob/main/deviceInfo.md)
 - [default apps](https://github.com/aimindseye/hisense-a9/blob/main/defaultApps.md)
 - [system apps](https://github.com/aimindseye/hisense-a9/blob/main/sysApps.md)
+- Stock Rom Versions
+  - First Release: L2037.6.04.06.00 (This is version the phone reverts back to, if trying to flash stock rom)
+  - Last Release: L2037.6.08.01.00
 
 
 and tips 
@@ -25,7 +26,7 @@ and tips
 - [non root modifications](https://github.com/aimindseye/hisense-a9/blob/main/non-root-mods.md) (for someone who just wants basic changes like access to keyboard, eink brower. eink reader, other apps without Google Playstore install)
 - [to setup developer mode and usb debugging](https://github.com/aimindseye/hisense-a9/blob/main/devmodeusbdebug.md)
 - [to unlock bootloader](https://github.com/aimindseye/hisense-a9/blob/main/unlockbootloader.md)
-- [to root](https://github.com/aimindseye/hisense-a9/blob/main/rootphone.md)
+- [to root](https://github.com/aimindseye/hisense-a9/blob/main/rootphone.md) Make sure that the phone is on First Release or Last Release, as the boot image are only available for those releases only. If you can update to last version or flash stock rom. Then you will have to extract boot.img from your phone before trying to root the phone.
 - [update to android/lineage gsi](https://github.com/aimindseye/hisense-a9/blob/main/updateandroidgsi.md)
 - [flash to stock rom](https://github.com/aimindseye/hisense-a9/blob/main/flashstockrom.md)
 - [backup & restore phone](https://github.com/aimindseye/hisense-a9/blob/main/backuprestore.md)
@@ -34,7 +35,7 @@ and tips
 ### A9 Resources:
 - [Elf file]( https://drive.google.com/file/d/16tMxSO-fa9BHyBZqoZD7rywGcmyZC_aW/view?usp=drive_link) FireHose Elf file for A9 (needed for restoring to stock rom)
 - [Stock rom](https://drive.google.com/drive/folders/1_5PvcvgA9TltEU_XwmiL-t2Eh0VM6C40?usp=drive_link) Hisense A9 stock rom which will have version L2037.6.04.06.00 . You should be able to update to L2037.6.08.01.00(this is last update provided by Hisense) using system update under settings
-- [Boot Image & vbmeta](https://drive.google.com/drive/folders/1lSOJqfIWaUJ9EnchshKYnNoZNrFZNY9g?usp=drive_link) These will be used during rooting process.
+- [Boot Image & vbmeta](https://drive.google.com/drive/folders/1lSOJqfIWaUJ9EnchshKYnNoZNrFZNY9g?usp=drive_link) These will be used during rooting process. Make sure that the phone is on First release or Last release, as the boot image are only available for those releases only. If you can update to last version or flash stock rom. Then you will have to extract boot.img from your phone before trying to root the phone.
 - [Custom Fastboot](https://drive.google.com/drive/folders/1TB3I6_ejs7Y8GyEumty0aDFiJvycEgWH?usp=drive_link) Created by Denzil Ferreira for unlocking bootloader. Windows and Linux versions are available.
 
 ### Android Platform Tools/Apps, Drivers and Other Utilities:
