@@ -10,7 +10,7 @@ The author is not responsible for any damage caused to the phone with below inst
 - ADB Downloaded and in System Path
 - Developer Options and USB Debugging Enabled
 > [!IMPORTANT]
-> Custom Fastboot downloaded | Bootloader Unlocked | Boot Images and vbmeta downloaded. Make sure that the phone is on First Release or Last Release, as the boot images are only available for those releases only. If you can't update to last version or flash stock rom. Then you will have to extract boot.img from your phone before trying to root the phone.
+> Custom Fastboot downloaded | Bootloader Unlocked | Boot Images and vbmeta downloaded. Make sure that the phone is on First Release or Last Release, as the boot images are only available for those releases only. If you can't update to last version or flash stock rom, then you will have to extract boot.img from your phone before trying to root the phone.
 
 > [!NOTE]
 > Depending on your firmware version, use appropriate boot.img
