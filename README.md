@@ -29,7 +29,7 @@ and tips
 - [to root](https://github.com/aimindseye/hisense-a9/blob/main/rootphone.md) Make sure that the phone is on First Release or Last Release, as the boot image are only available for those releases only. If you can't update to last version or flash stock rom, then you will have to extract boot.img from your phone before trying to root the phone.
 - [update to android/lineage gsi](https://github.com/aimindseye/hisense-a9/blob/main/updateandroidgsi.md)
 - [flash to stock rom](https://github.com/aimindseye/hisense-a9/blob/main/flashstockrom.md)
-- [backup & restore phone](https://github.com/aimindseye/hisense-a9/blob/main/backuprestore.md)
+- [backup & restore phone](https://github.com/aimindseye/hisense-a9/blob/main/backuprestore.md) - Instructions using [BKerler EDL tool](https://github.com/bkerler/edl) 
 - [extract/backup boot image](https://github.com/aimindseye/hisense-a9/blob/main/backupbootimg.md)
 
 
