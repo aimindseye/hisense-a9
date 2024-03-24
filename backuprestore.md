@@ -1,4 +1,4 @@
-# Backup & Restore using EDL
+# Backup & Restore using [BKerler EDL tool]
 
 > [!WARNING]
 > Please proceed at your own risk. There are chances that performing below instructions could lead to unrecoverable phone.
