@@ -12,7 +12,7 @@ The author is not responsible for any damage caused to the phone with below inst
 - Developer Options and USB Debugging Enabled
 - Hisense A9 Stock Rom downloaded
 >[!IMPORTANT]
->**EDL Cable** (without EDL Cable - stock rom cannot be flashed)
+>**EDL Cable** (without EDL Cable - stock rom cannot be flashed. Only on Windows)
 - Phone connected via USB ;)
 
 
