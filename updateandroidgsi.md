@@ -13,7 +13,7 @@ The author is not responsible for any damage caused to the phone with below inst
 > Custom fastboot | Bootloader Unlocked | vbmeta downloaded.
 - Desired Android/Lineage GSI downloaded
 > [!NOTE]
-> You will need to download non vndklite, arm64 ,ab version GSI for Hisense A9. Depending on your use- you can download secure|personal,with gapps or not, with super user or not. For more details visit -https://droidwin.com/arm64-a64-bgn-bvn-bgs-vndklite-which-gsi-to-download/ 
+> You will need to download non vndklite, arm64 ,ab version GSI for Hisense A9. Depending on your use- you can download secure|personal,with gapps or not, with super user or not. For more details visit -https://droidwin.com/arm64-a64-bgn-bvn-bgs-vndklite-which-gsi-to-download/ ( Please note, the link is provided as reference to understand which type of gsi to download.Generic Android GSIs provided in the link may not be customized for eink devices like Hisense A9, so additional customization and use of screen sharing tools to view boot screen and move forward,maybe required.)
 - Phone connected via USB ;)
 
 ## Steps to flashing Android/Lineage GSI
