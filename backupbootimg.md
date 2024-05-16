@@ -9,12 +9,13 @@ The author is not responsible for any damage caused to the phone with below inst
 
 - BKerler's EDL tool Downloaded and in System Path
 - Developer Options and USB Debugging Enabled
+- Bootloader must be unlocked
 - Elf file(prog_firehose_ddr_001360E1.elf) downloaded
 - Phone connected via USB ;)
 
 
 ## Backup Boot Image
- - Find out your active partition using fastboot getvar all
+ - Find out your active partition using `fastboot getvar all`. In order to obtain the `(bootloader) current-slot` information, the bootloader must be unlocked; otherwise, this information will not be shown in the command's output.
  - Open command prompt window (if using Linux, then terminal window)
  - Run below command (if active partition is b , use boot_b, if a then use boot_a)
     - <code>edl r boot_b  boot.img --memory=ufs --loader=prog_firehose_ddr_001360E1.elf</code>
