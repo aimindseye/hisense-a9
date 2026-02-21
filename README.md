@@ -50,7 +50,7 @@ and tips
 - [Magisk:](https://github.com/topjohnwu/Magisk) Magisk v27.0 was working without any issues. Needed for root access. It can be used for installing apps via modules, unpacking and repacking Android boot images
 - [Magisk LiteGapps:](https://sourceforge.net/projects/litegapps/files/litegapps/arm64/) Download the MAKSU version of LiteGapps
 - [Magisk HidePropsConf:](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/releases) Used to change ur device's fingerprint, to pass SafetyBet's CTS profile check. With device certification, apps that require device certifications will work.ex. bank apps, streaming apps etc.
-- [Linaro's QDL:](https://git.codelinaro.org/linaro/qcomlt/qdl) This Linux tool communicates with USB devices of id 05c6:9008 to upload a flash loader and use this to flash images.
+- [Linaro's QDL:](https://git.codelinaro.org/linaro/qcomlt/qdl) This Linux tool communicates with USB devices of id 05c6:9008 to upload a flash loader and use this to flash images. Linaro'a QDL has been archived. You can use new maintained [QDL](https://github.com/linux-msm/qdl)
 - [Qualcomm Flash Image Loader(QFIL):](https://qfiltool.com/qfil-tool-v2-0-3-5) Qualcomm Flash Image Loader (QFIL) is a small Windows application that allows you to flash or install Stock Firmware on devices powered by Qualcomm Chipset.
 - [Qualcomm HS-USB QDLoader 9008 Driver- Windows](https://gsmusbdrivers.com/download/qualcomm-hs-usb-qdloader-9008-driver-64-bit-windows/)
 - Screen Sharing: These screen sharing utilities are helpful while setting up android gsi and lineage gsi as gsi are not yet optimized for eink devices.
